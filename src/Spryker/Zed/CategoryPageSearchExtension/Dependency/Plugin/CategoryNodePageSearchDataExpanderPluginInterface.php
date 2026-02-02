@@ -13,7 +13,8 @@ interface CategoryNodePageSearchDataExpanderPluginInterface
 {
     /**
      * Specification:
-     * - Expands the provided category node page search data array and returns the modified version.
+     * - Expands the provided category node page search data array.
+     * - Returns the modified version.
      *
      * @api
      *
